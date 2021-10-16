@@ -16,7 +16,7 @@ on:
 env:
   FIRMWARE_LINK: https://ota-manual-in.allawnofs.com/ota/21/09/14/6ea29861-0ddd-45e8-96d2-40608c6db270.ozip #edit link here...
   FIRMWARE_NAME: 6ea29861-0ddd-45e8-96d2-40608c6db270.ozip  #edit file name here, you can find the name of file from link itself...
-  FINAL_ZIP_NAME: 6ea29861-0ddd-45e8-96d2-40608c6db270.zip #This will be the name of final zip which will be uploaded. You can leave it unchanged.
+  FINAL_ZIP_NAME: RealmeXT.zip #This will be the name of final zip which will be uploaded. You can leave it unchanged.
   TZ: Asia/Kolkata
 
 jobs:
